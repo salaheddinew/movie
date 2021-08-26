@@ -1,0 +1,29 @@
+[
+    {
+      "imgsrc":"./assets/John wick.jpg",
+      "titre":"Jhon Wick",
+      "anné":"2019",
+      "cathegorie":"Action",
+      "limite":"+18",
+      "pays":"American",
+      "watch":"watch"
+    },
+    {
+      "imgsrc":"./assets/Heliopolice.jpg",
+      "titre":"Heliopolice",
+      "anné":"2020",
+      "cathegorie":"Drame",
+      "limite":"+16",
+      "pays":"Algerien",
+      "watch":"watch"
+    },
+    {
+      "imgsrc":"./assets/Rombo.jpg",
+      "titre":"Rombo",
+      "anné":"1990",
+      "cathegorie":"Action",
+      "limite":"+18",
+      "pays":"American",
+      "watch":"watch"
+    }
+  ]
